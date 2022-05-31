@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbserial-110",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "sketch": "WinDraw.ino"
+}

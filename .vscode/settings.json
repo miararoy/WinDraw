@@ -1,0 +1,6 @@
+{
+    "arduino.path": "/Applications",
+    "files.associations": {
+        "chrono": "cpp"
+    }
+}
