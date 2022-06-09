@@ -1,6 +1,8 @@
 {
     "arduino.path": "/Applications",
     "files.associations": {
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp"
     }
 }

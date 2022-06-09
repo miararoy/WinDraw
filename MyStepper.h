@@ -6,7 +6,7 @@
 
 class MyStepper:public Stepper {
     public:
-        enum Direction {FORWARD=1, BACKWARD=-1};
+        enum Direction {FORWARD=-1, BACKWARD=1};
         enum Orientation {R=1, L=-1};
         double x;
         double y;
